@@ -4,7 +4,7 @@
     --cinza-secundario: #c0c0c0;
     --cor-de-fundo: #00030c;
     --fonte-principal: "inter";
-    --botao-azul-efeito: #3C92FA;
+    --botao-azul-efeito: rgb(234, 110, 234);
 }
 
 body {
